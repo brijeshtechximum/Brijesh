@@ -21,7 +21,7 @@
 
           <div class="loginheading">
 
-          <h2 style="color: #faa831;" >Now You Are Blocked !</h2>
+          <h2 style="color: #faa831;" ><strong>Now You Are Blocked !</strong></h2>
 
           </div>
 		  <hr>
