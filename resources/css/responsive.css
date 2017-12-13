@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width: 767px){
+.checkkey {
+    float: left;
+}
+.forgotlink {
+    text-align: center;
+}
+}
+@media only screen and (max-width: 639px){
+.gentable {
+    border: none;
+	background: none;
+}
+.gentable > thead{
+	display: none;
+}
+.dontseek{
+	display: none;	
+}
+.gentable > tbody > tr{
+    border: 1px solid #faa831;
+    margin-bottom: 10px;
+    display: inline-block;
+	width: 100%;
+	background: #ffffff;
+}
+.gentable > tbody > tr > td span{
+	display: block;
+}
+.gentable > tbody > tr > td div {
+    width: 68%;
+    float: right;
+    display: inline-block;
+    border-left: 1px solid #faa831;
+    padding-left: 5px;
+}
+.gentable td{
+	width: 100%;
+	display: inline-block;
+}
+.hideseek{
+	display: block;
+}	
+}
